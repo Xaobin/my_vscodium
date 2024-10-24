@@ -1,0 +1,17 @@
+{
+    "editor.fontFamily": "consolas, 'APL385 Unicode', 'CQ Mono', mononoki, 'Courier New', monospace",
+    "editor.fontSize": 16,
+    "editor.wordWrap": "on",
+    "editor.detectIndentation": false,
+    "editor.guides.highlightActiveIndentation": false,
+    "workbench.tree.renderIndentGuides": "none",
+    "editor.guides.indentation": false,
+    "editor.selectionHighlight": false,
+    "editor.language.colorizedBracketPairs": [
+
+    ],
+    "editor.bracketPairColorization.enabled": false,
+    "workbench.colorTheme": "Sorcerer",
+    "workbench.tree.enableStickyScroll": false
+
+}
