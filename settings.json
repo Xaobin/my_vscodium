@@ -12,6 +12,9 @@
     ],
     "editor.bracketPairColorization.enabled": false,
     "workbench.colorTheme": "Sorcerer",
-    "workbench.tree.enableStickyScroll": false
+    "workbench.tree.enableStickyScroll": false,
+    "editor.stickyScroll.scrollWithEditor": false,
+    "notebook.stickyScroll.mode": "flat",
+    "editor.stickyScroll.enabled": false
 
 }
