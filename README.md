@@ -5,6 +5,6 @@ OR<br>
 THEIA IDE<br>
 <br>
 <br>
-★ ALL FONTES<br>
+★ ALL FONTS<br>
 ★ CONFIGURATION FILE - SETTINGS.JSON<br>
 ★ ALL EXTENSIONS<br>
