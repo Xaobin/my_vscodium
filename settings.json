@@ -15,6 +15,7 @@
     "workbench.tree.enableStickyScroll": false,
     "editor.stickyScroll.scrollWithEditor": false,
     "notebook.stickyScroll.mode": "flat",
-    "editor.stickyScroll.enabled": false
+    "editor.stickyScroll.enabled": false,
+    "workbench.editor.scrollToSwitchTabs": true
 
 }
