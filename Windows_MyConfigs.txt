@@ -1,0 +1,94 @@
+---------
+BARRA DE TAREFAS
+---------
+TASKBAR
+----------
+
+Remover o preview da barra de tarefas
+Remove taskbar preview app, miniature
+1)Regedit
+2)Computador\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+3) criar word 32 bits -> "ExtendedUIHoverTime"
+4) adicionar opção decimal e valor "30000"
+
+Ele vai salvar em hexadecimal 7530
+Link google: https://www.google.com/search?q=%22ExtendedUIHoverTime%22
+
+-------------------------------
+
+Barra de tarefas menor, com ícones menores:
+
+1) Instalar WINDHAWK
+2) Mod "Taskbar height and icon size"
+3) Valores:
+Icon size: 22
+Taskbar height: 36
+Taskbar button width: 33
+
+============================
+PROGRAM
+Q-DIR
+FILE MANAGER
+
+Executar(ícone)> adicionar > .... insere na lista:
+PowerShell=%SystemRoot%\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+
+============================
+
+PROGRAMAS/PROGRAMS
+
+1) FreeCommander XE (File manager)
+2) Q-DIR (File manager) (THE BEST) - O MELHOR
+3) Krita (baixar gratuitamente, não pela loja pois é pago)
+4) SimpleStart Menu (pela loja)
+5) Editpad Lite 8(Editor de Texto Simples)
+6) Q-Text (Editor de Texto Simples)
+7) WordPad e Notepad (Editores de Texto Simples disponíveis no Windows 11)
+8) Powershell e Powershell 7, Instalar usando winget
+9) Waterfox e vivaldi
+10) FxSound
+11) SMPlayer (muito bom)
+12) VLC media player
+13) OpenOffice
+14) Kdenlive
+15) Proton VPN
+16) Frame0
+17) HxD
+18) Filezilla
+19) Xodo
+20) Free virtual keyboard
+21) Panda Antivirus
+22) Keepass 2
+23) Thunderbird
+24) Pinterest (loja)
+25) RealFTP
+26) Real Wifi
+27) Q-Bitorrent
+28) ShowKeyPlus (loja)
+29) Cmder
+30) DB Browser (sqlite)
+31) Xampp
+32) Postman
+33) Sublime Text
+34) Theia IDE
+35) VSCODIUM
+36) Notepad++
+37) Calculator + (loja)
+38) 7-zip
+39) Gle editor (loja)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
