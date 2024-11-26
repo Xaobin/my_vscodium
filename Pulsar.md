@@ -1,8 +1,9 @@
-<h6>PULSAR (Atom editor continua) </h6>
+<h6>PULSAR (Atom editor continuation) </h6>
 <br>
-<br><b>Line vertical Disable:</b>
-<br>Settings > packages > Wrap-guide> Disable
+<br>Line vertical Disable:
+<br>Settings > packages > Wrap-guide> [x] Disable
 
-<br><b>Word Wrap</b> > Settings > Editor > [x] Soft-wrap
+<br>Word Wrap >
+<br>Settings > Editor > [x] Soft-wrap
 <br>
 
