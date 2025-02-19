@@ -11,11 +11,14 @@
 
     ],
     "editor.bracketPairColorization.enabled": false,
-    "workbench.colorTheme": "Sorcerer",
     "workbench.tree.enableStickyScroll": false,
     "editor.stickyScroll.scrollWithEditor": false,
-    "notebook.stickyScroll.mode": "flat",
     "editor.stickyScroll.enabled": false,
-    "workbench.editor.scrollToSwitchTabs": true
+    "workbench.editor.scrollToSwitchTabs": true,
+    "workbench.colorTheme": "ODPMD Obsidian",
+    "editor.scrollbar.horizontal": "visible",
+    "workbench.editor.titleScrollbarSizing": "large",
+    "notebook.stickyScroll.mode": "flat",
+    "typescript.validate.enable": false
 
 }
